@@ -1,0 +1,11 @@
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\bin\Debug\PersonalAddressBook.exe.config
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\bin\Debug\PersonalAddressBook.exe
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\bin\Debug\PersonalAddressBook.pdb
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.csproj.AssemblyReference.cache
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.Properties.Resources.resources
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.csproj.GenerateResource.cache
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.exe
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.pdb
+C:\Users\aryas\OneDrive\ICS4U\PersonalAddressBook\PersonalAddressBook\obj\Debug\PersonalAddressBook.frmPersonalAddressBook.resources
